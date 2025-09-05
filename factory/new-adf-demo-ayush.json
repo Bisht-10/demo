@@ -1,0 +1,9 @@
+{
+	"name": "new-adf-demo-ayush",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "683f668a-d487-4b47-94f5-7c2147875254",
+		"tenantId": "878e3de7-4331-45b8-aa8e-f75f47e4656f"
+	}
+}
