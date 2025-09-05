@@ -1,0 +1,18 @@
+{
+	"name": "SnowflakeTemp",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SnowflakeV2",
+		"typeProperties": {
+			"authenticationType": "Basic",
+			"accountIdentifier": "qjeaxcr-qa72304",
+			"user": "AyushB",
+			"database": "SALES_MART",
+			"warehouse": "COMPUTE_WH",
+			"role": "ACCOUNTADMIN",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDNBQ0I4NzlBLTM2RTEtNEYzMi04MUZGLTdEMDAwN0JBNEFFNF9iNjZlMjU5Yi1iNWRjLTRiYWQtYjIyNy04ZGFiYWUwMWM5YWYiDQp9"
+		},
+		"version": "1.1"
+	}
+}
